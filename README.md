@@ -374,4 +374,4 @@ To create a UX design and develop a web application for event registration.
 
 
 ## RESULT:
-This webpage designed for event registration designed by veera , http://tamil.student.saveetha.in:8000/home/.
+This webpage designed for event registration designed by tamil , http://tamil.student.saveetha.in:8000/home/.
