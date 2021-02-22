@@ -6,12 +6,18 @@ To create a UX design and develop a web application for event registration.
 
 
 ## DESIGN SCREENS:
+![output](./static/img/G1.png)
+![output](./static/img/G2.png)
+![output](./static/img/G3.png)
+![output](./static/img/G4.png)
 
 
 ## WIREFRAME:
+![output](./static/img/P.png)
 
 
 ## PROTOTYPE:
+![output](./static/img/ALL.png)
 
 
 ## PROGRAM:
